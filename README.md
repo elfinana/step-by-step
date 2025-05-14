@@ -2,6 +2,16 @@
 
 자주 사용되는 기능들을 단계적으로 구현하며 학습하고 기록하는 프로젝트! AI를 사용하지 않고,, 구현 목표
 
+✅ Next.js 14 (App Router)
+
+✅ Tailwind CSS
+
+✅ Typescript
+
+✅ Zustand 기본 구조
+
+✅ ESLint + Prettier 세팅
+
 
 ### 단계별 구현 로드맵
 
